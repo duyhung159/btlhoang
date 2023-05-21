@@ -1,0 +1,477 @@
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\mongocrypt.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Laptop.exe.config
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Laptop.exe
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Laptop.pdb
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Crc32C.NET.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\DnsClient.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\EntityFramework.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ExtentReports.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\MongoDB.Bson.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\MongoDB.Driver.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\RazorEngine.NetCore.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\SharpCompress.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Snappy.NET.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Buffers.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Collections.Immutable.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.IO.Pipelines.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Memory.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Security.AccessControl.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Security.Permissions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\EnvDTE.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\stdole.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Crc32C.NET.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\DnsClient.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\EntityFramework.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\MongoDB.Bson.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\MongoDB.Driver.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\Snappy.NET.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Buffers.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Collections.Immutable.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.IO.Pipelines.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Memory.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.Form1.resources
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.Frmsettingcs.resources
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.NewFolder1.FormPayment.resources
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.NewFolder1.FormPro.resources
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.NewFolder1.FormReporting.resources
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.NewFolder1.FormSetting.resources
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.Properties.Resources.resources
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.csproj.GenerateResource.cache
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.csproj.CoreCompileInputs.cache
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.csproj.CopyComplete
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.exe
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.pdb
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.csproj.AssemblyReference.cache
+C:\Users\NEIL\Downloads\C#MobileStore\C#MobileStore\mobilestore\loginform\obj\Debug\Laptop.Laptop.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\mongocrypt.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Laptop.exe.config
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Laptop.exe
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Laptop.pdb
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Crc32C.NET.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\DnsClient.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.SqlServer.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ExtentReports.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Bson.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.Core.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Newtonsoft.Json.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\RazorEngine.NetCore.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\SharpCompress.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Snappy.NET.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Buffers.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Collections.Immutable.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.ComponentModel.Annotations.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.IO.Pipelines.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Memory.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Numerics.Vectors.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Reflection.Metadata.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.AccessControl.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Permissions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Principal.Windows.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encodings.Web.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\EnvDTE.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\stdole.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.MSXML.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Crc32C.NET.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\DnsClient.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.SqlServer.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.pdb
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Bson.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.Core.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Newtonsoft.Json.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\Snappy.NET.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Buffers.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Collections.Immutable.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.IO.Pipelines.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Memory.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Numerics.Vectors.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Reflection.Metadata.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encodings.Web.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.csproj.AssemblyReference.cache
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.csproj.SuggestedBindingRedirects.cache
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.Form1.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.Frmsettingcs.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.Laptop.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.NewFolder1.FormPayment.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.NewFolder1.FormPro.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.NewFolder1.FormReporting.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.NewFolder1.FormSetting.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.Properties.Resources.resources
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.csproj.GenerateResource.cache
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.csproj.CoreCompileInputs.cache
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.csproj.CopyComplete
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.exe
+E:\BTL Hoang\New folder\C#laptop\C#Laptop\C#store\loginform\obj\Debug\Laptop.pdb
